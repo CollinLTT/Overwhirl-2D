@@ -1,0 +1,7 @@
+Assets Used:
+-	All graphics/animations created by me.
+-	All sounds and music created by me.
+-	Scripts made by me with assists from YouTube Tutorials: 
+		Animation/Controls - https://youtu.be/hkaysu1Z-N8
+		Coin Pickup - https://youtu.be/lNXDK8a75l0
+		Sounds - https://youtu.be/8pFlnyfRfRc
