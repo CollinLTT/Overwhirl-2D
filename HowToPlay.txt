@@ -1,0 +1,8 @@
+HOW TO PLAY:
+- Create a character.
+- Press the "Save Character" button. 
+- Return to menu.
+- Hit the play button.
+- The character will move to the right automatically.
+- Avoid spikes by jumping with the [spacebar].
+- Survive to the end of the level to win.
