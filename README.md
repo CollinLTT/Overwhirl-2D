@@ -4,7 +4,7 @@ A project made for the class CS-583 at San Diego State University in the Fall of
 Overwhirl is a 2D obstacle platformer game based on the game Geometry Dash. It features fully custom sounds, music, and graphics all made by myself.
 
 ### Table of Contents
-- [How to Play](#how-to-play)
+- [How to Download & Play](#how-to-play)
 - [Features](#features)
 - [Video Demo](#video-demo)
 - [Improvements](#improvements)
@@ -12,10 +12,10 @@ Overwhirl is a 2D obstacle platformer game based on the game Geometry Dash. It f
 
 ## How to Download & Play:
 
-- The game functions similarly to Geometry Dash where the only action to take in the game is to jump to avoid obstacles.
 - You only need to download the "Releases" folder from the repository to play.
-- Double click the Overwhirl.exe file.
+- Once downloaded, double click the Overwhirl.exe file.
 - To jump press the spacebar.
+- Try your best to avoid obstacles and collect coins.
 
 
 ## Features:
