@@ -10,9 +10,11 @@ Overwhirl is a 2D obstacle platformer game based on the game Geometry Dash. It f
 - [Improvements](#improvements)
 
 
-## How to Play:
+## How to Download & Play:
 
 - The game functions similarly to Geometry Dash where the only action to take in the game is to jump to avoid obstacles.
+- You only need to download the "Releases" folder from the repository to play.
+- Double click the Overwhirl.exe file.
 - To jump press the spacebar.
 
 
@@ -25,7 +27,7 @@ Overwhirl is a 2D obstacle platformer game based on the game Geometry Dash. It f
 
 ## Video Demo:
 
-A video of the game in action can be seen here: [iOS App Demo](https://youtube.com/shorts/165S-_A97tA?feature=share). It first shows the live stream by clicking the play button on the home screen, then the photos from the Firebase cloud, and finally the list of clips from the cloud which once selected takes you to a video player.
+A video of the game in action can be seen here: [Overwhirl Demo](https://youtu.be/X4DlQcJkmLA).
 
 
 ## Improvements:
