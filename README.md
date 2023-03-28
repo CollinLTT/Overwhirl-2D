@@ -40,3 +40,4 @@ Ideas for Improvement:
  - Add more levels or auto generate levels.
  - Create system that allows you to promote through levels.
  - Make game run smoother.
+ - Improve graphic scaling.
