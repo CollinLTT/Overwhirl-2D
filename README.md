@@ -37,4 +37,4 @@ Ideas for Improvement:
  - Add way to use coins collected to unlock new wheel designs.
  - Add more levels or auto generate levels.
  - Create system that allows you to promote through levels.
- - Clean up code and make game run smoother.
+ - Make game run smoother.
