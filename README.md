@@ -19,8 +19,8 @@ Overwhirl is a 2D obstacle platformer game based on the game Geometry Dash. It f
 ## Features:
 
 - The game features fully custom sounds, music, graphics, and animations made by myself.
-- Has the option to switch between three different wheel designs.
-- Also has the option to switch between three difficulties: Normal, Hard, and Overwhirl.
+- Has the option to switch between two different wheel designs: YinYang or Peppermint.
+- Also has the option to switch between three difficulties: Normal, Moderate, and Overwhirl.
 
 
 ## Video Demo:
